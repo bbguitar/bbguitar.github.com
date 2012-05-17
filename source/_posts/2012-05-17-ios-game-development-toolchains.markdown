@@ -17,20 +17,19 @@ and keeping focused on one language makes things simple.
 Whilst I love the idea of TDD, BDD and lots of unit tests, like many people, I've found Testing to
 be extremely difficult in iOS. For games its much harder. I may build discrete unit tests for any AI and logic inside classes but only if the mocks are not too brittle.
 
-I will build with retina in mind.
 
-I will use git as my code management tool and possibly push up to github as time goes on.
+I tend to use git as my code management tool and I'll probably push up to github as time goes on.
 
-I'm not going to get into code coverage and the like first time round. 
+I'm not going to get into code coverage and the like for my first iOS game. 
 
 ## IDE
 
-Not much choice here xcode is the defacto and I'll swap between vim and xcode as needed.
+Not much choice here xcode is the _de facto_ and I'll swap between vim and xcode as needed.
 I could use eclipse and spend a few hours plugging in all the build stuff but I'd still need 
 to swap back into xcode for code signing and the other things that are easy to do like archiving, 
 building and analysis.
-__Note to apple, could we have editor plugins to xcode so I could use vim or emacs bindings without
-lot of hassle?__
+_Note to apple, could we have editor plugins to xcode so I could use vim or emacs bindings without
+lot of hassle?_
 
 
 ## Frameworks
@@ -47,6 +46,8 @@ setup I prefer to set up a local __trac__ instance and use it as a project dumpi
 
 I've played around with plugging agilo into trac and I've also got a project pier instance setup if I need it. However I keep coming back to using trac as a todo list especially as I can integrate git into it
 easily.
+
+I like _basecamp_ but I can't justify the monthly cost until I've got two or three profitable apps under my belt and I'd rather not start with it at the moment even on a free plan.
 
 ## Media
 
